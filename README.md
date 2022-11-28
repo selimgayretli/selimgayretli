@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **PicoBricks Projects**
 
-- 📫 How to reach me **samet.sulun@robotistan.com**
+- 📫 How to reach me **selim.gayretli@robotistan.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
