@@ -2,7 +2,7 @@
 
 <h3 align="center">Educational Technology Specialst at Robotistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amet7&label=Profile%20views&color=0e75b6&style=flat" alt="selimgayretli" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=selimgayretli&label=Profile%20views&color=0e75b6&style=flat" alt="selimgayretli" /> </p>
 
 
 - 🔭 I’m currently working on [Robotistan](https://shop.robotistan.com/)
