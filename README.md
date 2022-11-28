@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Samet</h1>
+<h1 align="center">Hi 👋, I'm Selim</h1>
 
-<h3 align="center">R&D Engineer at Robotistan</h3>
+<h3 align="center">Educational Technology Specialst at Robotistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amet7&label=Profile%20views&color=0e75b6&style=flat" alt="amet7" /> </p>
 
