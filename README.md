@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **Embedded Systems, Electronics & MicroPython projects**
 - 📝 I enjoy sharing knowledge, teaching programming, and developing open-source hardware/software projects
 - 💬 Ask me about **MicroPython, Electronics, Microcontrollers, and STEM Education**
-- 📫 How to reach me: **selim.gayretli@gmail.com** *(e-posta adresini güncelleyebilirsin)*
+- 📫 How to reach me: **selimgyrtli23@gmail.com** *(e-posta adresini güncelleyebilirsin)*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
